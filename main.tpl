@@ -148,7 +148,7 @@
 
             <footer class="footer d-flex ai-center jc-center">
                 <div class="footer__text flex-grow-1">
-                    Copyright © 2025 - JEMESSONIK. Все права защищены. <a href="https://datae/pravoobladateliam.html">Правообладателям</a>
+                    Copyright © 2025 - JEMESSONIK. Все права защищены. <a href="http://localhost/pravoobladateliam.html">Правообладателям</a>
                 </div>
                 <div class="footer__counter">
                     <img src="{theme}/images/counter.gif" loading="lazy" alt="">

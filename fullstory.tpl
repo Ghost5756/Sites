@@ -12,8 +12,7 @@
         </header>
 
         <div class="scard__descr">
-            <ul class="scard__list">
-                <li><span>Жанр:</span> {link-category}, Боевик, Фантастика</li>
+            <ul class="scard__list">sdfdsfsdfdsfsdfdsfsfsdf
                 <li><span>Страна:</span> [xfvalue_countr]</li>
                 <li><span>В переводе:</span> [xfvalue_audio_do]</li>
                 <li><span>Качество:</span> [xfvalue_Video_p]</li>
